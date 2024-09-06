@@ -42,11 +42,17 @@ En el 4 y 5 tiene el mismo porcentaje psicológica, física, doméstica y simbó
 Líneas a seguir
 
 Aprendizaje supervisado:
+
 ●	Repasar el análisis exploratorio, enfocando en la interacción entre los tipos de violencia y las modalidades.
+
 ●	Avanzar con modelos alternativos que consideren otras variables explicativas.
+
 ●	Elección de diferentes variables predictivas. 
+
 Aprendizaje no supervisado:
 ●	Los tipos de violencia se configuran como una variable relevante para el análisis de acciones a evaluar para cada grupo.  
+
 ●	La edad no resulta una variable significativa para caracterizar cada cluster.
+
 ●	Se podrían incluir otras variables al análisis, como por ejemplo la distribución por provincias.
 
